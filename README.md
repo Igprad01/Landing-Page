@@ -1,2 +1,2 @@
 # Landing-Page-
-Landing Page Sederhana Html and Css
+Latihan membuat Landing Page Sederhana Html and Css
